@@ -1,0 +1,7 @@
+{
+  "name": "Energy Auditor & Market Strategist 360",
+  "description": "An advanced forensic analysis tool for domestic energy consumption, featuring bill OCR, strategic interviews, and market intelligence reports.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
